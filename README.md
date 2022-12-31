@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<br>
+<img src="https://raw.githubusercontent.com/ReactJs-Fun/Dynamic-Calendar/master/Capture.PNG" />
+<br>
 ## Available Scripts
 
 In the project directory, you can run:
